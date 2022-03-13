@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### :man_technologist: About Me : I am a Frontend Developer from  - 🇧🇩 Bangladesh.
+### :man_technologist: About Me : I am a Frontend Developer from  Bangladesh.
 
 - :telescope: I’m working as a Web Designer
 
