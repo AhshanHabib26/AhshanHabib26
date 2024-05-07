@@ -31,12 +31,11 @@ Here are some ideas to get you started:
 </div>
 
 
-### :man_technologist: About Me: I am a Frontend Developer from  Bangladesh.
+### :man_technologist: About Me: I am a MERN Stack Developer from  Bangladesh.
 
-- :telescope: I’m working as a Web Designer
-
+- :telescope: I’m working as a Web Designer & Developer
 - :seedling: Exploring Technical Content Writing.
-
+- 💬 Ask me about anything related to Javascript/Typescript/ReactJS/NextJS/Express/MongoDB
 - :zap: In my free time, I Solve Problems on the Internet And Read Tech Articles.
   
 
