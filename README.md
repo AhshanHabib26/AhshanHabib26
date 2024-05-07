@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 </div>
 
 
-### :man_technologist: About Me : I am a Frontend Developer from  Bangladesh.
+### :man_technologist: About Me: I am a Frontend Developer from  Bangladesh.
 
 - :telescope: I’m working as a Web Designer
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I Solve Problems on Internet And Read Tech Articles.
+- :zap: In my free time, I Solve Problems on the Internet And Read Tech Articles.
   
 
 ### 🖥️: Languages and Tools :
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="30"/> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="30"/>  
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/> 
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="30"/> 
 <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="30"/> 
