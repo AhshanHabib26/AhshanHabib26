@@ -1,23 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AhshanHabib26/AhshanHabib26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
--->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
@@ -26,9 +8,16 @@ Here are some ideas to get you started:
 
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/ahshanhabib26/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-ahshanhabib26-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahshanhabib26/"/>
   </a>
+  <br/>
+  <span>
+    <a href="mailto:ahshan.habib026@gmail.com">
+    <img src="https://img.shields.io/badge/-ahshan.habib026@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahshan.habib026@gmail.com"/>
+  </a>
+  </span>
 </div>
+
 
 
 ### :man_technologist: About Me: I am a MERN Stack Developer from  Bangladesh.
