@@ -8,12 +8,12 @@
 
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/ahshanhabib26/">
-    <img src="https://img.shields.io/badge/-ahshanhabib26-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahshanhabib26/" height="25"/>
+    <img src="https://img.shields.io/badge/-ahshanhabib26-blue?style=flat-square&logo=Linkedin&logoColor=white" height="25"/>
   </a>
   <br/>
   <span>
     <a href="mailto:ahshan.habib026@gmail.com">
-    <img src="https://img.shields.io/badge/-ahshan.habib026@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahshan.habib026@gmail.com" height="25"/>
+    <img src="https://img.shields.io/badge/-ahshan.habib026@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height="25"/>
   </a>
   </span>
 </div>
