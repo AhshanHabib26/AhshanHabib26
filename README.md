@@ -65,3 +65,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhshanHabib26&background=1a2331&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
+
+## ⚡ GitHub Current Stats
+<p align="center">
+ <img   src="https://github-readme-stats.vercel.app/api?username=AhshanHabib26&show_icons=true&count_private=true&theme=dracula" />
+<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhshanHabib26&layout=compact&count_private=true&theme=dracula" />
+</p>
