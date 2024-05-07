@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - :zap: In my free time, I Solve Problems on the Internet And Read Tech Articles.
   
 
-### 🖥️: Languages and Tools :
+### ⚡ Technologies and Tools
 
 <div align='center'>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/> 
@@ -59,14 +59,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="30"/> 
 </div>
 
-## :chart_with_upwards_trend: Current Stats
-
+<br />
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhshanHabib26&background=1a2331&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
 
-## ⚡ GitHub Current Stats
+<br/>
+
+### :chart_with_upwards_trend: GitHub Current Stats
 <p align="center">
  <img   src="https://github-readme-stats.vercel.app/api?username=AhshanHabib26&show_icons=true&count_private=true&theme=dracula" />
 <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhshanHabib26&layout=compact&count_private=true&theme=dracula" />
