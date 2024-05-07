@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### :chart_with_upwards_trend: GitHub Current Stats
+### :chart_with_upwards_trend: GitHub Stats
 <p align="center">
  <img   src="https://github-readme-stats.vercel.app/api?username=AhshanHabib26&show_icons=true&count_private=true&theme=dracula" />
 <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhshanHabib26&layout=compact&count_private=true&theme=dracula" />
